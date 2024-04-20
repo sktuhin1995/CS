@@ -1,0 +1,28 @@
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564\DengueDisease\DengueDisease\bin\Debug\DengueDisease.exe.config
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564\DengueDisease\DengueDisease\bin\Debug\DengueDisease.exe
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564\DengueDisease\DengueDisease\bin\Debug\DengueDisease.pdb
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564\DengueDisease\DengueDisease\obj\Debug\DengueDisease.csproj.AssemblyReference.cache
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564\DengueDisease\DengueDisease\obj\Debug\DengueDisease.csproj.CoreCompileInputs.cache
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564\DengueDisease\DengueDisease\obj\Debug\DengueDisease.exe
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564\DengueDisease\DengueDisease\obj\Debug\DengueDisease.pdb
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(C# Project)\Tuhin-1279564(C# Project)\DengueDisease\DengueDisease\bin\Debug\DengueDisease.exe.config
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(C# Project)\Tuhin-1279564(C# Project)\DengueDisease\DengueDisease\bin\Debug\DengueDisease.exe
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(C# Project)\Tuhin-1279564(C# Project)\DengueDisease\DengueDisease\bin\Debug\DengueDisease.pdb
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(C# Project)\Tuhin-1279564(C# Project)\DengueDisease\DengueDisease\obj\Debug\DengueDisease.csproj.AssemblyReference.cache
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(C# Project)\Tuhin-1279564(C# Project)\DengueDisease\DengueDisease\obj\Debug\DengueDisease.csproj.CoreCompileInputs.cache
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(C# Project)\Tuhin-1279564(C# Project)\DengueDisease\DengueDisease\obj\Debug\DengueDisease.exe
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(C# Project)\Tuhin-1279564(C# Project)\DengueDisease\DengueDisease\obj\Debug\DengueDisease.pdb
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(C# Project)F\DengueDisease\DengueDisease\bin\Debug\DengueDisease.exe.config
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(C# Project)F\DengueDisease\DengueDisease\bin\Debug\DengueDisease.exe
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(C# Project)F\DengueDisease\DengueDisease\bin\Debug\DengueDisease.pdb
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(C# Project)F\DengueDisease\DengueDisease\obj\Debug\DengueDisease.csproj.AssemblyReference.cache
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(C# Project)F\DengueDisease\DengueDisease\obj\Debug\DengueDisease.csproj.CoreCompileInputs.cache
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(C# Project)F\DengueDisease\DengueDisease\obj\Debug\DengueDisease.exe
+C:\Users\sktuh\OneDrive\Desktop\Tuhin-1279564(C# Project)F\DengueDisease\DengueDisease\obj\Debug\DengueDisease.pdb
+F:\My Project\Tuhin-1279564(C# Project)\Tuhin-1279564(C# Project)\DengueDisease\DengueDisease\bin\Debug\DengueDisease.exe.config
+F:\My Project\Tuhin-1279564(C# Project)\Tuhin-1279564(C# Project)\DengueDisease\DengueDisease\bin\Debug\DengueDisease.exe
+F:\My Project\Tuhin-1279564(C# Project)\Tuhin-1279564(C# Project)\DengueDisease\DengueDisease\bin\Debug\DengueDisease.pdb
+F:\My Project\Tuhin-1279564(C# Project)\Tuhin-1279564(C# Project)\DengueDisease\DengueDisease\obj\Debug\DengueDisease.csproj.AssemblyReference.cache
+F:\My Project\Tuhin-1279564(C# Project)\Tuhin-1279564(C# Project)\DengueDisease\DengueDisease\obj\Debug\DengueDisease.csproj.CoreCompileInputs.cache
+F:\My Project\Tuhin-1279564(C# Project)\Tuhin-1279564(C# Project)\DengueDisease\DengueDisease\obj\Debug\DengueDisease.exe
+F:\My Project\Tuhin-1279564(C# Project)\Tuhin-1279564(C# Project)\DengueDisease\DengueDisease\obj\Debug\DengueDisease.pdb
